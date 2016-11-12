@@ -1,0 +1,23 @@
+{
+  "name": "demo-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gen23167/demo-web.git"
+  },
+  "keywords": [
+    "demo-web"
+  ],
+  "author": "gen23167",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gen23167/demo-web/issues"
+  },
+  "homepage": "https://github.com/gen23167/demo-web#readme",
+  "dependencies": {}
+}
